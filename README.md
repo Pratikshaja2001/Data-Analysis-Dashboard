@@ -29,9 +29,12 @@
 3. Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 
-
-
 ## Dashboard -
 ![Screenshot 2025-01-13 152737](https://github.com/user-attachments/assets/4084db5e-af39-4954-b738-3030d1f16367)
+
+
+
+## Conclusion –     
+In this report ,create interactive data visualizations of Airbnb Listings and analyze the total count of hosts along with their corresponding reviews and price.
 
 
