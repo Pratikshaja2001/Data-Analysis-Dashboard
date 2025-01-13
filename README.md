@@ -24,9 +24,9 @@
 9.	Room Type – Which Type of room is use for Airbnb listings
 
 ## Process –
-•	Verify data for any missing values and anomalies, and sort out the same,
+•	Verify data for any missing values and anomalies, and sort out the same.
 •	Made sure data is consistent and clean with respect to data type, data formate and values used.
-•	Merge all pivot tables into one dashboard and apply slicer to make dynamic
+•	Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ![Screenshot 2025-01-13 152737](https://github.com/user-attachments/assets/dbb9dcda-3787-40e0-bf98-ebf9dd0510d8)
 
