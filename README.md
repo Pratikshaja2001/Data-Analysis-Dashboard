@@ -1,2 +1,8 @@
-# Data-Analysis-Dashboard
-I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data .This process involved several stages, including data preprocessing, data cleaning, and data visualization.
+ Title - Airbnb Listing & Reviews Analysis
+
+ Aim – To Analysis the Data of Airbnb Listing and creating interactive visualization 
+
+Objective – 
+•	To Analysis the datasheet and find the sum of calculating host listing count 
+•	To Analysis and visualizing reviews and pricing of airbnb listing
+•	Creating interactive visualization for user exploration 
