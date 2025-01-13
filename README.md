@@ -32,5 +32,6 @@
 
 
 ## Dashboard -
-![Screenshot 2025-01-13 152737](https://github.com/user-attachments/assets/dbb9dcda-3787-40e0-bf98-ebf9dd0510d8)
+![Screenshot 2025-01-13 152737](https://github.com/user-attachments/assets/4084db5e-af39-4954-b738-3030d1f16367)
+
 
