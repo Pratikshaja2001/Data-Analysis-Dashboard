@@ -9,5 +9,5 @@
 •	Creating interactive visualization for user exploration 
 
 ## Dataset  Used -
-- <a href = "https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata">Airbnb Data</a>
+- <a hrf = "https://github.com/Pratikshaja2001/Data-Analysis-Dashboard/blob/main/Airbnb_data.xlsx"> Dataset </a>
 
