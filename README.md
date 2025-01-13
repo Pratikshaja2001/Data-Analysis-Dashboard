@@ -1,8 +1,9 @@
 ## Title - Airbnb Listing & Reviews Analysis
 
- ##Aim – To Analysis the Data of Airbnb Listing and creating interactive visualization 
+ ## Aim – 
+  To Analysis the Data of Airbnb Listing and creating interactive visualization 
 
-#Objective – 
+# Objective – 
 •	To Analysis the datasheet and find the sum of calculating host listing count 
 •	To Analysis and visualizing reviews and pricing of airbnb listing
 •	Creating interactive visualization for user exploration 
